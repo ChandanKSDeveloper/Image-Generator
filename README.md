@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="demo/20241229_040437_436.jpg" align="center" width="50%">
-</p>
-<p align="center"><h1 align="center">GenImg - Digital Createation</h1></p>
+<p align="center"><h1 align="center">GenImg - Digital Creation</h1></p>
 <p align="center">
     <em>Transforming your imagination into stunning visuals with the power of AI.</em>
 </p>
