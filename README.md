@@ -7,8 +7,10 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=default&logo=React&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/Javascript-3178C6.svg?style=default&logo=Javascript&logoColor=yellow" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" alt="ExpressJS">
+    <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/AI_Generation-Powered.svg?style=default&logo=Artificial-Intelligence&logoColor=white" alt="AI">
+    <img src="https://img.shields.io/badge/-nodejs-13aa52?style=for-the-badge&logo=nodejs&logoColor=white" alt="NodeJS">
 </p>
 
 ---
