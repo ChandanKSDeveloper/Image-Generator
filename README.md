@@ -50,7 +50,6 @@ Genimg is built with modern web technologies to ensure efficiency, responsivenes
 
 - **React**: To create interactive UIs with reusable components.
 - **Hugging Face AI**: Powering the AI backend with image generation.
-- **Typescript**: Ensuring type safety and code reliability.
 - **Express.js**: Managing server-side logic.
 - **Node.js**: backend runtime environment.
 
